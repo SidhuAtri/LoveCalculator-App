@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "love-calc",
-    "slug": "love-calc",
+    "name": "Love Calculator",
+    "slug": "love-calculator",
     "platforms": [
       "ios",
       "android",
@@ -23,6 +23,7 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": ""
   }
 }
